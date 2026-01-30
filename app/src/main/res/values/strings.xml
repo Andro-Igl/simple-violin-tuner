@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Violin Tuner</string>
+    <string name="app_description">Precise violin tuner with customizable frequencies</string>
+</resources>
