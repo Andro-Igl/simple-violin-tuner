@@ -7,16 +7,15 @@ A simple, ad-free, open-source violin tuner app for Android.
 
 ## Features
 
-- ✅ **Real-time pitch detection** via microphone
-- ✅ **All 4 strings**: G, D, A, E
-- ✅ **Customizable frequencies** (440 Hz, 442 Hz, 443 Hz or custom)
-- ✅ **Visual gauge display** with animated needle
-- ✅ **Cents deviation** for precise tuning
-- ✅ **Automatic string detection**
-- ✅ **Manual string selection**
-- ✅ **Settings are saved** across app restarts
-- ✅ **No ads, no trackers**
-- ✅ **Works offline**
+- **Real-time pitch detection** via microphone
+- **Customizable frequencies**
+- **Visual gauge display** with animated needle
+- **Cents deviation** for precise tuning
+- **Automatic string detection**
+- **Manual string selection**
+- **Settings are saved** across app restarts
+- **No ads, no trackers**
+- **Works offline**
 
 ## Screenshots
 
@@ -105,7 +104,7 @@ The app uses a custom FFT (Fast Fourier Transform) implementation to analyze aud
 | A4     | 440.00 Hz |
 | E5     | 659.26 Hz |
 
-Users can customize these frequencies for orchestras using different concert pitches (e.g., A = 442 Hz or 443 Hz).
+Users can customize these frequencies for orchestras using different concert pitches.
 
 ## Privacy
 
